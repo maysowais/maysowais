@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5E2754"/>
+      <stop offset=".55" stop-color="#8E4379"/>
+      <stop offset="1" stop-color="#D2799F"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#FFC6DA" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#FFC6DA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mono" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFE3EC"/>
+      <stop offset="1" stop-color="#F2A7C1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <circle cx="1080" cy="40" r="210" fill="url(#glow1)"/>
+  <circle cx="420" cy="320" r="170" fill="url(#glow2)"/>
+  <circle cx="1150" cy="270" r="90" fill="url(#glow2)"/>
+  <!-- petals -->
+  <g fill="#FFFFFF" fill-opacity=".14">
+    <path d="M1010 120 q22 -30 44 0 q-22 30 -44 0z"/>
+    <path d="M1060 175 q16 -22 32 0 q-16 22 -32 0z"/>
+    <path d="M960 200 q12 -16 24 0 q-12 16 -24 0z"/>
+  </g>
+  <circle cx="160" cy="150" r="84" fill="#FFFFFF" fill-opacity=".16"/>
+  <circle cx="160" cy="150" r="72" fill="url(#mono)"/>
+  <text x="160" y="168" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700" fill="#6A2C5E">MO</text>
+  <text x="280" y="118" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" letter-spacing="3" fill="#FFE9F1" fill-opacity=".9">COMPUTER SCIENCE GRADUATE · JORDAN</text>
+  <text x="278" y="176" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" fill="#FFFFFF">Mays Waleed Owais</text>
+  <text x="280" y="218" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#FFE9F1">Python Developer  ·  Data Analyst  ·  AI &amp; Programming Trainer</text>
+</svg>
