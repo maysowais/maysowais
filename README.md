@@ -3,92 +3,144 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D2668A&center=true&vCenter=true&width=620&lines=Python+Developer;Data+Analyst;AI+%26+Programming+Trainer;Turning+data+into+clear+stories" alt="Python Developer, Data Analyst, AI & Programming Trainer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D2668A&center=true&vCenter=true&width=560&lines=Python+Developer;Data+Analyst;AI+%26+Programming+Trainer;Turning+data+into+clear+stories" alt="Python Developer, Data Analyst, AI & Programming Trainer">
 </p>
 
 <p align="center">
-  <a href="https://maysowais.github.io"><img src="https://img.shields.io/badge/My_Profile-7B3B6E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Profile"></a>
-  <a href="https://maysowais.github.io/Mays-s-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-A54E86?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/mays-owais-718bb725a"><img src="https://img.shields.io/badge/LinkedIn-C06A93?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mays67663@gmail.com"><img src="https://img.shields.io/badge/Email-D2668A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://maysowais.github.io"><img src="https://img.shields.io/badge/Profile-7B3B6E?style=flat-square&logo=googlechrome&logoColor=white" alt="Profile"></a>
+  <a href="https://maysowais.github.io/Mays-s-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7B3B6E?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mays-owais-718bb725a"><img src="https://img.shields.io/badge/LinkedIn-7B3B6E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mays67663@gmail.com"><img src="https://img.shields.io/badge/Email-7B3B6E?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h2>About me</h2>
+<br>
 
-- **Computer Science graduate** from Jerash University, Jordan (2026)
-- I teach **Python, programming and AI** to learners of every level
-- I build **full-stack apps**, **data analysis / BI dashboards** and **AI automations**
-- Presented *"Transforming Scholarly Writing with AI: Benefits and Ethical Dilemmas"* at **ICSR 2025**
-- Open to roles in **software development, data analysis, AI and technical training**
+<h3 align="center">About me</h3>
+<p align="center"><img src="divider.svg" width="420" alt=""></p>
 
-<h2>Experience</h2>
+<p align="center">
+  Computer Science graduate from <b>Jerash University</b>, Jordan (2026).<br>
+  I teach <b>Python, programming and AI</b>, and I build <b>full-stack apps</b>, <b>BI dashboards</b> and <b>AI automations</b>.<br>
+  Presented <i>"Transforming Scholarly Writing with AI: Benefits and Ethical Dilemmas"</i> at <b>ICSR 2025</b>.<br>
+  Open to roles in software development, data analysis, AI and technical training.
+</p>
 
-| Role | Where | When |
-|---|---|---|
+<br>
+
+<h3 align="center">Experience</h3>
+<p align="center"><img src="divider.svg" width="420" alt=""></p>
+
+<div align="center">
+
+| Role | Organisation | Dates |
+|:--|:--|--:|
 | **Python & Programming Languages Trainer** | Engineer Spark | Sep 2026 – Present |
 | **AI & Digital Marketing Trainer** | Arab Professional Trainer Union | Sep 2026 – Present |
 | **Python & Web Development Trainer** | Bahr Al-Bayanat Center | Jul 2025 – Sep 2026 |
-| **Data Security Trainee** (Penetration Testing) | Green Circle | Jun – Sep 2025 |
+| **Data Security Trainee** | Green Circle | Jun – Sep 2025 |
 | **GIS Trainee** | GISTEC | Jun – Aug 2025 |
-| **System Administration Training** (YTJ, Ministry of Digital Economy) | ITON IT Solutions | 2025 |
+| **System Administration Training** | ITON IT Solutions | 2025 |
 
-<h2>Tech stack</h2>
+</div>
 
-**Languages**<br>
-![Python](https://img.shields.io/badge/Python-7B3B6E?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7B3B6E?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7B3B6E?style=flat-square&logo=javascript&logoColor=white)
-![R](https://img.shields.io/badge/R-7B3B6E?style=flat-square&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-7B3B6E?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7B3B6E?style=flat-square&logo=css3&logoColor=white)
+<br>
 
-**Data & AI**<br>
-![Pandas](https://img.shields.io/badge/Pandas-A54E86?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-A54E86?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-A54E86?style=flat-square&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-A54E86?style=flat-square&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-A54E86?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-A54E86?style=flat-square&logo=googlegemini&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-A54E86?style=flat-square&logo=n8n&logoColor=white)
-
-**Web & Databases**<br>
-![React](https://img.shields.io/badge/React-D2668A?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-D2668A?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D2668A?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-D2668A?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-D2668A?style=flat-square&logo=git&logoColor=white)
-
-<h2>GitHub stats</h2>
+<h3 align="center">Tech stack</h3>
+<p align="center"><img src="divider.svg" width="420" alt=""></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maysowais&show_icons=true&hide_border=true&bg_color=00000000&title_color=C06A93&icon_color=D2668A&text_color=A2839A&rank_icon=github" alt="Mays's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysowais&layout=compact&hide_border=true&bg_color=00000000&title_color=C06A93&text_color=A2839A&langs_count=6" alt="Top languages">
+  <img src="https://img.shields.io/badge/Python-7B3B6E?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-7B3B6E?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/JavaScript-7B3B6E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/R-7B3B6E?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/HTML5-7B3B6E?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-7B3B6E?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <br>
+  <img src="https://img.shields.io/badge/Pandas-A54E86?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-A54E86?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-A54E86?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Power_BI-A54E86?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-A54E86?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Gemini-A54E86?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/n8n-A54E86?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <br>
+  <img src="https://img.shields.io/badge/React-D2668A?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-D2668A?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-D2668A?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-D2668A?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-D2668A?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
+
+<br>
+
+<h3 align="center">Featured projects</h3>
+<p align="center"><img src="divider.svg" width="420" alt=""></p>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/maysowais/lung-cancer-ml"><b>Heart Disease & Lung Cancer Prediction</b></a><br>
+      <sub>Classification models with feature selection and ROC analysis. 85% accuracy on heart disease.</sub><br><br>
+      <code>R</code> <code>caret</code> <code>randomForest</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/maysowais/ufo-eda-r-project"><b>UFO Sightings EDA</b></a><br>
+      <sub>Global UFO reports explored by shape, country and year, with a world map and a word cloud.</sub><br><br>
+      <code>R</code> <code>ggplot2</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/maysowais/Mays-s-Portfolio"><b>Portfolio Website</b></a><br>
+      <sub>Responsive personal site with dark and light mode and a working contact form.</sub><br><br>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/maysowais/maysowais.github.io"><b>Profile Page</b></a><br>
+      <sub>One-page profile with experience, projects, skills and hobbies.</sub><br><br>
+      <code>HTML</code> <code>CSS</code>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>More work, including Power BI dashboards, a student management system and an AI Telegram bot, is on my <a href="https://maysowais.github.io/Mays-s-Portfolio/#projects">portfolio</a>.</sub></p>
+
+<br>
+
+<h3 align="center">GitHub stats</h3>
+<p align="center"><img src="divider.svg" width="420" alt=""></p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maysowais&hide_border=true&background=00000000&ring=C06A93&fire=D2668A&currStreakLabel=C06A93&sideLabels=A2839A&currStreakNum=A2839A&sideNums=A2839A&dates=A2839A&stroke=F0DEE7" alt="GitHub streak">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maysowais&show_icons=true&hide_border=true&bg_color=00000000&title_color=C06A93&icon_color=D2668A&text_color=A2839A&rank_icon=github" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysowais&layout=compact&hide_border=true&bg_color=00000000&title_color=C06A93&text_color=A2839A&langs_count=6" alt="Top languages">
 </p>
 
-<h2>Featured projects</h2>
+<br>
 
-| Project | What it does | Tools |
-|---|---|---|
-| [**Heart Disease & Lung Cancer Prediction**](https://github.com/maysowais/lung-cancer-ml) | Classification models with feature selection, ROC analysis and threshold tuning, **85% accuracy** on heart disease | R · caret · randomForest |
-| [**UFO Sightings EDA**](https://github.com/maysowais/ufo-eda-r-project) | Exploratory analysis of global UFO reports: shapes, countries, trends over time, a world map and a word cloud | R · ggplot2 |
-| [**Portfolio Website**](https://github.com/maysowais/Mays-s-Portfolio) | My responsive personal site with dark/light mode and a working contact form | HTML · CSS · JavaScript |
-| [**Profile Page**](https://github.com/maysowais/maysowais.github.io) | My one-page profile with experience, projects, skills and hobbies | HTML · CSS |
+<table align="center">
+  <tr>
+    <th width="50%">Hobbies</th>
+    <th width="50%">Certifications</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Football</b> <sub>· following Real Madrid and its stats</sub><br>
+      <b>AI tools</b> <sub>· trying new tools, building small automations</sub><br>
+      <b>Reading & research</b> <sub>· writing about AI and its ethics</sub><br>
+      <b>Side projects</b> <sub>· small sites that solve real problems</sub>
+    </td>
+    <td valign="top">
+      <b>Gemini Certified Educator</b> <sub>· Google for Education</sub><br>
+      <b>Elements of AI</b> <sub>· University of Helsinki</sub><br>
+      <b>SQL for Data Science</b> <sub>· Lengo Academy</sub><br>
+      <b>Data Analytics & Business Analysis</b> <sub>· LinkedIn Learning</sub><br>
+      <b>AI Fundamentals</b> <sub>· Udacity</sub><br>
+      <b>Data Analysis</b> <sub>· HP LIFE</sub>
+    </td>
+  </tr>
+</table>
 
-Other work (Power BI dashboards, a React + Node.js + PostgreSQL student management system, and an n8n + Gemini Telegram bot) is on my [portfolio](https://maysowais.github.io/Mays-s-Portfolio/#projects).
+<br>
 
-<h2>Hobbies</h2>
-
-| Football | Exploring AI tools | Reading & research | Side projects |
-|:---:|:---:|:---:|:---:|
-| Following Real Madrid and its player stats | Trying new tools and building small automations | Writing about AI and its ethics | Small sites and tools that solve real problems |
-
-<h2>Certifications</h2>
-
-Gemini Certified Educator (Google for Education) · Elements of AI (University of Helsinki) · SQL for Data Science (Lengo Academy) · Data Analytics & Business Analysis (LinkedIn Learning) · AI Fundamentals (Udacity) · Data Analysis (HP LIFE)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Let's_connect-data_·_AI_·_teaching_code-C06A93?style=for-the-badge" alt="Let's connect">
-</p>
+<p align="center"><img src="divider.svg" width="420" alt=""></p>
+<p align="center"><i>Let's connect. I'm always happy to talk about data, AI and teaching code.</i></p>
