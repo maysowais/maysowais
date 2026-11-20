@@ -13,15 +13,15 @@
   <a href="mailto:mays67663@gmail.com"><img src="https://img.shields.io/badge/Email-D2668A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h2>🌸 About me</h2>
+<h2>About me</h2>
 
-- 🎓 **Computer Science graduate** from Jerash University, Jordan (2026)
-- 👩‍🏫 I teach **Python, programming and AI** to learners of every level
-- 📊 I build **full-stack apps**, **data analysis / BI dashboards** and **AI automations**
-- 🎤 Presented *"Transforming Scholarly Writing with AI: Benefits and Ethical Dilemmas"* at **ICSR 2025**
-- 💼 Open to roles in **software development, data analysis, AI and technical training**
+- **Computer Science graduate** from Jerash University, Jordan (2026)
+- I teach **Python, programming and AI** to learners of every level
+- I build **full-stack apps**, **data analysis / BI dashboards** and **AI automations**
+- Presented *"Transforming Scholarly Writing with AI: Benefits and Ethical Dilemmas"* at **ICSR 2025**
+- Open to roles in **software development, data analysis, AI and technical training**
 
-<h2>💼 Experience</h2>
+<h2>Experience</h2>
 
 | Role | Where | When |
 |---|---|---|
@@ -32,7 +32,7 @@
 | **GIS Trainee** | GISTEC | Jun – Aug 2025 |
 | **System Administration Training** (YTJ, Ministry of Digital Economy) | ITON IT Solutions | 2025 |
 
-<h2>🛠️ Tech stack</h2>
+<h2>Tech stack</h2>
 
 **Languages**<br>
 ![Python](https://img.shields.io/badge/Python-7B3B6E?style=flat-square&logo=python&logoColor=white)
@@ -58,7 +58,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-D2668A?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-D2668A?style=flat-square&logo=git&logoColor=white)
 
-<h2>📈 GitHub stats</h2>
+<h2>GitHub stats</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=maysowais&show_icons=true&hide_border=true&bg_color=00000000&title_color=C06A93&icon_color=D2668A&text_color=A2839A&rank_icon=github" alt="Mays's GitHub stats">
@@ -68,7 +68,7 @@
   <img src="https://streak-stats.demolab.com?user=maysowais&hide_border=true&background=00000000&ring=C06A93&fire=D2668A&currStreakLabel=C06A93&sideLabels=A2839A&currStreakNum=A2839A&sideNums=A2839A&dates=A2839A&stroke=F0DEE7" alt="GitHub streak">
 </p>
 
-<h2>✨ Featured projects</h2>
+<h2>Featured projects</h2>
 
 | Project | What it does | Tools |
 |---|---|---|
@@ -79,13 +79,13 @@
 
 Other work (Power BI dashboards, a React + Node.js + PostgreSQL student management system, and an n8n + Gemini Telegram bot) is on my [portfolio](https://maysowais.github.io/Mays-s-Portfolio/#projects).
 
-<h2>🎀 Hobbies</h2>
+<h2>Hobbies</h2>
 
-| ⚽ Football | 🤖 Exploring AI tools | 📚 Reading & research | 💻 Side projects |
+| Football | Exploring AI tools | Reading & research | Side projects |
 |:---:|:---:|:---:|:---:|
 | Following Real Madrid and its player stats | Trying new tools and building small automations | Writing about AI and its ethics | Small sites and tools that solve real problems |
 
-<h2>📜 Certifications</h2>
+<h2>Certifications</h2>
 
 Gemini Certified Educator (Google for Education) · Elements of AI (University of Helsinki) · SQL for Data Science (Lengo Academy) · Data Analytics & Business Analysis (LinkedIn Learning) · AI Fundamentals (Udacity) · Data Analysis (HP LIFE)
 
