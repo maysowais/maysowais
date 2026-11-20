@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D2668A&center=true&vCenter=true&width=620&lines=Python+Developer+%F0%9F%90%8D;Data+Analyst+%F0%9F%93%8A;AI+%26+Programming+Trainer+%F0%9F%91%A9%E2%80%8D%F0%9F%8F%AB;Turning+data+into+clear+stories+%E2%9C%A8" alt="Python Developer, Data Analyst, AI & Programming Trainer">
+</p>
+
+<p align="center">
   <a href="https://maysowais.github.io"><img src="https://img.shields.io/badge/My_Profile-7B3B6E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Profile"></a>
   <a href="https://maysowais.github.io/Mays-s-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-A54E86?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/mays-owais-718bb725a"><img src="https://img.shields.io/badge/LinkedIn-C06A93?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -53,6 +57,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D2668A?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-D2668A?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-D2668A?style=flat-square&logo=git&logoColor=white)
+
+<h2>📈 GitHub stats</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maysowais&show_icons=true&hide_border=true&bg_color=00000000&title_color=C06A93&icon_color=D2668A&text_color=A2839A&rank_icon=github" alt="Mays's GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysowais&layout=compact&hide_border=true&bg_color=00000000&title_color=C06A93&text_color=A2839A&langs_count=6" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maysowais&hide_border=true&background=00000000&ring=C06A93&fire=D2668A&currStreakLabel=C06A93&sideLabels=A2839A&currStreakNum=A2839A&sideNums=A2839A&dates=A2839A&stroke=F0DEE7" alt="GitHub streak">
+</p>
 
 <h2>✨ Featured projects</h2>
 
