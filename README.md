@@ -96,9 +96,9 @@
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/maysowais/maysowais.github.io"><b>Profile Page</b></a><br>
-      <sub>One-page profile with experience, projects, skills and hobbies.</sub><br><br>
-      <code>HTML</code> <code>CSS</code>
+      <a href="https://github.com/maysowais/student-grades-analyzer"><b>Student Grades Analyzer</b></a><br>
+      <sub>Python CLI that turns a class gradebook into an Excel report, charts, report cards and a follow-up list. Tested with pytest.</sub><br><br>
+      <code>Python</code> <code>pandas</code> <code>matplotlib</code>
     </td>
   </tr>
 </table>
