@@ -36,10 +36,10 @@
 |:--|:--|--:|
 | **Python & Programming Languages Trainer** | Engineer Spark | Sep 2026 – Present |
 | **AI & Digital Marketing Trainer** | Arab Professional Trainer Union | Sep 2026 – Present |
+| **System Administration Training** | ITON IT Solutions | Oct – Nov 2026 |
 | **Python & Web Development Trainer** | Bahr Al-Bayanat Center | Jul 2025 – Sep 2026 |
 | **Data Security Trainee** | Green Circle | Jun – Sep 2025 |
 | **GIS Trainee** | GISTEC | Jun – Aug 2025 |
-| **System Administration Training** | ITON IT Solutions | 2025 |
 
 </div>
 
@@ -84,9 +84,9 @@
       <code>R</code> <code>caret</code> <code>randomForest</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/maysowais/ufo-eda-r-project"><b>UFO Sightings EDA</b></a><br>
-      <sub>Global UFO reports explored by shape, country and year, with a world map and a word cloud.</sub><br><br>
-      <code>R</code> <code>ggplot2</code>
+      <a href="https://github.com/maysowais/cozy-celinez"><b>Cozy Celinez Store</b></a><br>
+      <sub>Arabic storefront for a handmade punch needle shop, with a cart, custom orders and class booking via WhatsApp.</sub><br><br>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
   </tr>
   <tr>
